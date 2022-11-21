@@ -1,0 +1,10 @@
+Fields are not disabled when user marked "***" chekbox.
+
+  Description
+  Steps to reproduce:
+  1) Lodin to ... as admin.
+  2) Click on the "+Create" button
+  3) Click on the "***" chekbox
+
+  Actual result:"text" and "text2" field are not disabled.
+  Expected result:"text" and "text2" fields should be disabled.
